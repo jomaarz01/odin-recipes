@@ -9,3 +9,7 @@ ul {
 .chicken_adobo, .sinigang, .tinola {
     max-width: 300px;
 }
+
+img {
+    display: block;
+}
