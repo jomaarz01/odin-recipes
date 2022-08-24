@@ -1,3 +1,10 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    display: block;
+    background-color: #ec758f;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
 }
